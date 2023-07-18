@@ -2,7 +2,7 @@
 
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
-// If you get stuck, please leave comments to help us understand your thought process
+// If you get stuck, leave comments to help us understand your thought process
 
 // Use test driven development to complete the following questions
 // Add appropriate dependencies: $ yarn add jest
@@ -12,8 +12,6 @@
 
 // --------------------INSTRUCTOR EXAMPLE: Create a function that takes in an array of numbers and returns an array with all the numbers multiplied by 3.
 
-// Pseudo code:
-
 // a) Create a test with expect statements for each of the variables provided.
 
 const numbersArray1 = [6, 7, 8, 9, 10]
@@ -22,6 +20,8 @@ const numbersArray2 = [24, 27, 30, 33, 36]
 // Expected output: [72, 81, 90, 99, 108]
 
 // b) Create the function that makes the test pass.
+
+// Pseudo code:
 
 // --------------------1) Create a function that takes a object as an argument and decides if the number inside it is evenly divisible by three or not.
 
