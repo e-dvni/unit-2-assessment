@@ -6,6 +6,8 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
+Type your initials here to confirm you read the instructions:
+
 1. What is the difference between a parameter and an argument?
 
 Your answer:
@@ -24,13 +26,13 @@ Your answer:
 
 Researched answer:
 
-1. What is iteration?
+4. What is iteration?
 
 Your answer:
 
 Researched answer:
 
-1. What is the difference between a function and a method?
+5. What is the difference between a function and a method?
 
 Your answer:
 
@@ -46,12 +48,8 @@ Researched answer:
 
 Research and define the following terms to the best of your ability.
 
-1. Component:
+1. Spread operator:
 
-2. Spread operator:
+2. React state:
 
-3. React state:
-
-4. React props:
-
-5. DOM events:
+3. DOM events:

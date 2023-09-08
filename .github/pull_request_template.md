@@ -1,4 +1,4 @@
-# Submitting Week 1 Assessment
+# Submitting Week 2 Assessment
 
 ### ✅ Completed Files
 

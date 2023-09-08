@@ -4,10 +4,11 @@
 
 // First, predict the outcome based on your understanding of the code.
 // Then, uncomment the console.log() and verify the output. Briefly explain why your initial answer was correct or incorrect.
+// There is no need to change any of the code.
 
 // --------------------1) What will this log?
 
-const cohort = "Echo 2023"
+const cohort = "Foxtrot 2023"
 // console.log(cohort.split(""))
 
 // a) Your answer:
