@@ -18,7 +18,7 @@ Your LinkedIn url:
 
 Check the boxes below to certify that you have completed the following items on your LinkedIn profile:
 
-- [ ] add additional previous jobs (going back 10 years) in the Experience section. Add skills and descriptions to your jobs that highlight transferable skills.
+- [ ] add additional previous jobs (up to 10 years as appropriate) in the Experience section. Add skills and descriptions to your jobs that highlight transferable skills.
 - [ ] create a new post about your first two weeks at LEARN. Topics can include (but are not limited to) JavaScript, git and GitHub, pair programming, or communication skills.
-- [ ] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, friends and family, and former coworkers.
+- [ ] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
 - [ ] react (like, celebrate, comment, etc) to ten posts from your existing connections.
