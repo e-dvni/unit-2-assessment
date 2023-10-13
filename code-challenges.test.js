@@ -1,7 +1,6 @@
 // ASSESSMENT 2: Coding Practical Questions with Jest
 
 // Please read all questions thoroughly
-// Pseudo coding is REQUIRED
 // If you get stuck, leave comments to help us understand your thought process
 
 // Use test driven development to complete the following questions
@@ -46,21 +45,6 @@ const randomNouns1 = ["streetlamp", "potato", "teeth", "conclusion", "nephew"]
 // Expected output: ["Streetlamp", "Potato", "Teeth", "Conclusion", "Nephew"]
 const randomNouns2 = ["temperature", "database", "chopsticks", "mango"]
 // Expected output: ["Temperature", "Database", "Chopsticks", "Mango"]
-
-// b) Create the function that makes the test pass.
-
-// Pseudo code:
-
-// --------------------3) Create a function that takes in a string and logs the index of the first vowel.
-
-// a) Create a test with expect statements for each of the variables provided.
-
-const vowelTester1 = "learn"
-// Expected output: 1
-const vowelTester2 = "academy"
-// Expected output: 0
-const vowelTester3 = "challenges"
-// Expected output: 2
 
 // b) Create the function that makes the test pass.
 

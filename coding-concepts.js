@@ -8,8 +8,8 @@
 
 // --------------------1) What will this log?
 
-const cohort = "Foxtrot 2023"
-// console.log(cohort.split(""))
+const cohort = "Golf 2023"
+// console.log(cohort.split(" "))
 
 // a) Your answer:
 // b) Verify and explain:
@@ -26,21 +26,13 @@ const greeter = (name) => {
 
 // --------------------3) What will this log?
 
-const multipliedByTwo = [4, 5, 6, 7, 8].map((number) => number * 2)
-// console.log(multipliedByTwo)
-
-// a) Your answer:
-// b) Verify and explain:
-
-// --------------------4) What will this log?
-
 const onlyOdds = [11, 12, 13, 14, 15].filter((number) => number % 2 !== 0)
 // console.log(onlyOdds)
 
 // a) Your answer:
 // b) Verify and explain:
 
-// --------------------5) What will this log?
+// --------------------4) What will this log?
 
 const myCodingSkills = {
   languages: ["JavaScript", "Ruby"],
@@ -53,12 +45,12 @@ const myCodingSkills = {
 // a) Your answer:
 // b) Verify and explain:
 
-// --------------------STRETCH: What will this log?
+// --------------------5) What will this log?
 
 class Learn {
   constructor(name) {
     this.student = name
-    this.cohort = "Echo"
+    this.cohort = "Golf"
     this.year = 2023
   }
 }
