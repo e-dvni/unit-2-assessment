@@ -2,15 +2,22 @@
 
 The LEARN program focuses on readying our students for a career in technology. The job hunt is a daunting process that requires a lot of preparedness. Complete the following tasks to ensure you are progressing in your professional development.
 
-### Portfolio
+### Portfolios
 
 This week, we covered the importance of a great technical portfolio to help you stand out in the job market.
 
-- Spend time looking at other developer’s portfolios. Submit the links to three portfolios you will use for inspiration.
+Spend time looking at other developer’s portfolios. Submit the links to three portfolios you will use for inspiration.
 
 1.
 2.
 3.
+
+### GitHub
+
+GitHub is an important asset for all developers as it serves as storage for your code as well as a portfolio.
+
+- [ ] add a profile picture to your GitHub account. A GitHub profile picture does not have to be an actual picture of your face but it should represent your brand as a developer.
+
 
 ### LinkedIn
 
