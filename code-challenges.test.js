@@ -1,6 +1,7 @@
 // ASSESSMENT 2: Coding Practical Questions with Jest
 
 // Please read all questions thoroughly
+// Pseudo coding is REQUIRED
 // If you get stuck, leave comments to help us understand your thought process
 
 // Use test driven development to complete the following questions
