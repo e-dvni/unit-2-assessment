@@ -30,12 +30,12 @@ Researched answer:
 
 Researched answer:
 
-## Looking Ahead: Terms for Next Week
+## Looking Ahead: Terms for Next Unit
 
-Research and define the following terms to the best of your ability.
+Research and define the following terms. Hint: use the syllabus!
 
-1. Spread operator:
+1. React State:
 
-2. React:
+2. React Props:
 
 3. JSX:

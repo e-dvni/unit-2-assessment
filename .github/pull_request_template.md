@@ -1,12 +1,10 @@
-# Submitting Week 2 Assessment
+# Submitting Unit 2 Assessment
 
 ### ✅ Completed Files
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Career Readiness
 - [ ] Coding Challenges
-- [ ] Coding Critique
 - [ ] Coding Concepts
 - [ ] Interview Questions
 

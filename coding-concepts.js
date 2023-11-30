@@ -8,7 +8,7 @@
 
 // --------------------1) What will this log?
 
-const cohort = "Hotel 2023"
+const cohort = "India 2023"
 // console.log(cohort.split(" "))
 
 // a) Your answer:
@@ -50,7 +50,7 @@ const myCodingSkills = {
 class Learn {
   constructor(name) {
     this.student = name
-    this.cohort = "Hotel"
+    this.cohort = "India"
     this.year = 2023
   }
 }
