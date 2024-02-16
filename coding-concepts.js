@@ -1,4 +1,4 @@
-// ASSESSMENT 2: Coding Conceptual Questions
+// UNIT 2 ASSESSMENT: Coding Conceptual Questions
 
 // Examine the following examples.
 
@@ -8,7 +8,7 @@
 
 // --------------------1) What will this log?
 
-const cohort = "India 2023"
+const cohort = "Alpha 2024"
 // console.log(cohort.split(" "))
 
 // a) Your answer:
@@ -50,8 +50,8 @@ const myCodingSkills = {
 class Learn {
   constructor(name) {
     this.student = name
-    this.cohort = "India"
-    this.year = 2023
+    this.cohort = "Alpha"
+    this.year = 2024
   }
 }
 const learnStudent = new Learn("George")

@@ -1,5 +1,9 @@
 # Submitting Unit 2 Assessment
 
+### ✋ Reminder
+
+Do NOT merge your assessment!
+
 ### ✅ Completed Files
 
 Select the following as confirmation that the files in this repository are complete.
@@ -8,10 +12,6 @@ Select the following as confirmation that the files in this repository are compl
 - [ ] Coding Concepts
 - [ ] Interview Questions
 
-### ✋ Reminder
-
-Do NOT merge your assessment!
-
 ### 📝 Feedback
 
-If you would like specific feedback please leave details here:
+Help us help you! Please let us know where we can focus our feedback:

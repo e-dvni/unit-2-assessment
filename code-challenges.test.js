@@ -1,4 +1,4 @@
-// ASSESSMENT 2: Coding Practical Questions with Jest
+// UNIT 2 ASSESSMENT: Coding Practical Questions with Jest
 
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
@@ -21,7 +21,7 @@ const numbersArray2 = [24, 27, 30, 33, 36]
 
 // b) Create the function that makes the test pass.
 
-// Pseudo code:
+// Explain your code:
 
 // --------------------1) Create a function that takes a object as an argument and decides if the number inside it is evenly divisible by three or not.
 
@@ -36,7 +36,7 @@ const object3 = { number: -7 }
 
 // b) Create the function that makes the test pass.
 
-// Pseudo code:
+// Explain your code:
 
 // --------------------2) Create a function that takes in an array of words and returns an array with all the words capitalized.
 
@@ -49,4 +49,4 @@ const randomNouns2 = ["temperature", "database", "chopsticks", "mango"]
 
 // b) Create the function that makes the test pass.
 
-// Pseudo code:
+// Explain your code:

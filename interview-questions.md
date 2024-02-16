@@ -1,4 +1,4 @@
-# ASSESSMENT 2: Interview Practice Questions
+# UNIT 2 ASSESSMENT: Interview Practice Questions
 
 Answer the following questions.
 
@@ -28,7 +28,7 @@ Researched answer:
 
 4. STRETCH: What is hoisting in JavaScript?
 
-Researched answer:
+Answer:
 
 ## Looking Ahead: Terms for Next Unit
 
@@ -38,4 +38,4 @@ Research and define the following terms. Hint: use the syllabus!
 
 2. React Props:
 
-3. JSX:
+3. DOM events:
