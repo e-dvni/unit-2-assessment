@@ -93,4 +93,4 @@ const capitalize = (nounArray) => {
     return capitalNouns
 }
 
-// Explain your code:
+// Explain your code: The function titled capitalize is taking in an array containing multiple strings.  Using the .map High Order Function, it is creating a new array called capitalNouns and iterating through the original array.  It is then returning each value with the first letter capitalized combined with the rest of the letters left as is.
